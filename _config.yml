@@ -79,5 +79,5 @@ theme: hueman
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: https://__GITHUB_TOKEN__@github.com/marcoweb.github.io.git
+  repo: https://__GITHUB_TOKEN__@github.com/marcoweb/marcoweb.github.io.git
   branch: master
