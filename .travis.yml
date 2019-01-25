@@ -8,8 +8,8 @@ branches:
 install: npm install
 
 before_script:
-- git config --global user.name "Marco Carvalho"
-- git config --global user.email "marcocarvalho.web@gmail.com"
+- git config --global user.name __GIT_USENAME__
+- git config --global user.email __GIT_EMAIL__
 - sed -i "s/__GITHUB_TOKEN__/${__GITHUB_TOKEN__}/" _config.yml
 
 script: npm run build
