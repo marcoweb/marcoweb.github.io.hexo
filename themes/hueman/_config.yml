@@ -19,7 +19,7 @@ customize:
     social_links: # for more icons, please see http://fontawesome.io/icons/#brand
         twitter: https://twitter.com/mcarvalhoweb
         facebook: https://www.facebook.com/marcocarvalho.web
-        google-plus: https://plus.google.com/u/0/+MarcoCarvalhoweb
+        #google-plus: https://plus.google.com/u/0/+MarcoCarvalhoweb
         github: https://github.com/marcoweb
         #weibo: /
         rss: /
